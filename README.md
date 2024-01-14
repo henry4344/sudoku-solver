@@ -1,5 +1,6 @@
-This requires Docker Sudoku-api running located here: [https://github.com/navshaikh/sudoku-api](https://github.com/navshaikh/sudoku-api)
-Also local proxy server needs to be running located here: [https://www.npmjs.com/package/local-cors-proxy](https://www.npmjs.com/package/local-cors-proxy)
+Requires Docker Sudoku-api running, located here: [https://github.com/navshaikh/sudoku-api](https://github.com/navshaikh/sudoku-api)
+
+Also local proxy server needs to be running, located here: [https://www.npmjs.com/package/local-cors-proxy](https://www.npmjs.com/package/local-cors-proxy)
 
 # React + TypeScript + Vite
 
